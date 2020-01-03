@@ -1,0 +1,27 @@
+Metadata-Version: 2.0
+Name: pysqlcipher
+Version: 2.6.10
+Summary: DB-API 2.0 interface for SQLCIPHER 3.x
+Home-page: http://github.com/leapcode/pysqlcipher/
+Author: Kali Kaneko
+Author-email: kali@leap.se
+License: zlib/libpng
+Platform: ALL
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: zlib/libpng License
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: C
+Classifier: Programming Language :: Python
+Classifier: Topic :: Database :: Database Engines/Servers
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
+Python interface to SQLCipher
+
+pysqlcipher is an interface to the SQLite 3.x embedded relational
+database engine. It is almost fully compliant with the Python database API
+version 2.0. At the same time, it also exposes the unique features of
+SQLCipher.
+
